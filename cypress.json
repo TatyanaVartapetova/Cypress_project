@@ -1,3 +1,4 @@
 {
-    "baseUrl": "https://fenzin.org/"
+  "viewportWidth": 1700,
+  "viewportHeight": 1300
 }
